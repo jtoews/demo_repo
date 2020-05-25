@@ -1,8 +1,8 @@
 Shopping List
 
 apples
-bananas
-yogurt
+99 bananas
+yogurt ice cream
 milk
 bread
 cereal
